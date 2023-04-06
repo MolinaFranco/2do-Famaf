@@ -1,0 +1,16 @@
+Integrantes:
+- Ebner Lautaro         43694206
+- Ludueña Zakka Juan    43299161
+- Molina Franco         44192153
+
+Ejercicio 1:
+Recreación del dinosaurio de google chrome, con 2 pirámides de fondo, un meteorito, 3 cactus y una versión del dinosaurio (el dinosaurio parado)
+
+Ejercicio 2:
+Realizamos una animación simulando el mítico juego del dinosaurio de google chrome cuando se pierde el internet. Con saltos computados, final del juego, eventos especiales y más. 
+
+
+
+
+
+

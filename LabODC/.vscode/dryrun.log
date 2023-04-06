@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/molina/famaf/LabODC'
+make: Leaving directory '/home/molina/famaf/LabODC'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
